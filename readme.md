@@ -3,7 +3,7 @@ Help you get started with with fast.ai
 
 ### ToDo List- 
 
-  - Cocumentation for a simple neural network.
+  - Documentation for a simple neural network.
   - Pytorch Fully connected example.
   - Pytroch Convolution Example.
   - Fastai Template.
